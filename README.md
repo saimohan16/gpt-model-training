@@ -57,8 +57,8 @@ pretraining‑gpt‑model/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/thejesh-m/pretraining‑gpt‑model.git
-   cd pretraining‑gpt‑model
+   git clone https://github.com/saimohan16/gpt-model-training.git
+   cd gpt‑model-training
    ```
 
 2. **Create a Virtual Environment**  
